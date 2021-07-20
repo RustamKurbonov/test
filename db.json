@@ -2,47 +2,53 @@
   "posts": [
     {
       "id": 0,
-      "title": "hello"
+      "title": "Первый",
+      "description": "text"
     },
     {
       "id": 1,
-      "title": "hello"
+      "title": "Воторой",
+      "description": "text"
     },
     {
       "id": 2,
-      "title": "hello"
+      "title": "Третий",
+      "description": "text"
     },
     {
       "id": 3,
-      "title": "hello"
+      "title": "Четвертый",
+      "description": "text"
     },
     {
       "id": 4,
-      "title": "hello"
+      "title": "Пятый",
+      "description": "text"
     },
     {
       "id": 5,
-      "title": "hello"
+      "title": "Шестой",
+      "description": "text"
     },
     {
       "id": 6,
-      "title": "hello"
+      "title": "Седьмой",
+      "description": "text"
     },
     {
       "id": 7,
-      "title": "hello"
+      "title": "Восьмой",
+      "description": "text"
     },
     {
       "id": 8,
-      "title": "hello"
+      "title": "Девятый",
+      "description": "text"
     },
     {
       "id": 9,
-      "title": "hello"
+      "title": "Десятый",
+      "description": "text"
     },
-    {
-      "id": 10,
-      "title": "hello"
-    }
   ]
 }
