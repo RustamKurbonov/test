@@ -3,57 +3,52 @@
     {
       "id": 0,
       "title": "Первый",
-      "description": "text"
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
       "id": 1,
       "title": "Воторой",
-      "description": "text"
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
       "id": 2,
       "title": "Третий",
-      "description": "text"
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     },
     {
       "id": 3,
       "title": "Четвертый",
-      "description": "text"
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     },
     {
       "id": 4,
       "title": "Пятый",
-      "description": "text"
+      "description": "Interdum velit euismod in pellentesque massa. Auctor neque vitae tempus quam pellentesque nec."
     },
     {
       "id": 5,
       "title": "Шестой",
-      "description": "text"
+      "description": "Posuere sollicitudin aliquam ultrices sagittis orci a. Faucibus nisl tincidunt eget nullam non."
     },
     {
       "id": 6,
       "title": "Седьмой",
-      "description": "text"
+      "description": "Et pharetra pharetra massa massa ultricies."
     },
     {
       "id": 7,
       "title": "Восьмой",
-      "description": "text"
+      "description": "Id cursus metus aliquam eleifend mi in. Consequat ac felis donec et odio pellentesque diam. Sit amet nisl suscipit adipiscing bibendum est ultricies integer."
     },
     {
       "id": 8,
       "title": "Девятый",
-      "description": "text"
+      "description": "Rhoncus aenean vel elit scelerisque. Luctus venenatis lectus magna fringilla urna."
     },
     {
       "id": 9,
       "title": "Десятый",
-      "description": "text"
+      "description": "Nulla malesuada pellentesque elit eget gravida cum. Bibendum neque egestas congue quisque."
     },
-    {
-      "id": 10,
-      "title": "Десятый",
-      "description": "text"
-    }
   ]
 }
